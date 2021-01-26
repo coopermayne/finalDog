@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dog Admin
 description: Guide to
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://silly-haibt-76504e.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
