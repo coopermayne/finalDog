@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Visit LAAC Homepage":
+    - "https://www.laanimalservices.com/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -84,7 +84,7 @@ back_to_top_text: "Back to top"
 footer_content: "We can put some footer here with credits?"
 
 # Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
