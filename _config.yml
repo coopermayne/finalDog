@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dog Admin
-description: Guide to LAAC Administrative Hearings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dogadmin.bip.sh" # the base hostname & protocol for your site, e.g. http://example.com
+description: Guide to
+baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+url: "https://silly-haibt-76504e.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
